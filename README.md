@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sankri15/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sankri15/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sankri15/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sankri15/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3161-block-placement-queries](https://github.com/sankri15/leetcode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sankri15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/sankri15/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sankri15/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sankri15/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankri15/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sankri15/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sankri15/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
