@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sankri15/leetcode/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sankri15/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sankri15/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sankri15/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/sankri15/leetcode/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sankri15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sankri15/leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/sankri15/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sankri15/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sankri15/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
