@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sankri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/sankri15/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sankri15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sankri15/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sankri15/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sankri15/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sankri15/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sankri15/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/sankri15/leetcode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/sankri15/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sankri15/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sankri15/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sankri15/leetcode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/sankri15/leetcode/tree/master/3379-transformed-array) |
