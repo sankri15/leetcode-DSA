@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sankri15/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/sankri15/leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sankri15/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sankri15/leetcode/tree/master/0877-stone-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sankri15/leetcode/tree/master/0018-4sum) |
+| [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sankri15/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sankri15/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sankri15/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [3161-block-placement-queries](https://github.com/sankri15/leetcode/tree/master/3161-block-placement-queries) |
 ## Enumeration
 |  |
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sankri15/leetcode/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
