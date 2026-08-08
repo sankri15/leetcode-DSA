@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sankri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/sankri15/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/sankri15/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/sankri15/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sankri15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sankri15/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sankri15/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sankri15/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sankri15/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sankri15/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/sankri15/leetcode/tree/master/0089-gray-code) |
