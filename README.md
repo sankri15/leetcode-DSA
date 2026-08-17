@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sankri15/leetcode/tree/master/0126-word-ladder-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sankri15/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sankri15/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/sankri15/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Nim Game
 |  |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sankri15/leetcode/tree/master/0022-generate-parentheses) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
