@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sankri15/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/sankri15/leetcode/tree/master/0126-word-ladder-ii) |
 | [0146-lru-cache](https://github.com/sankri15/leetcode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/sankri15/leetcode/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/sankri15/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sankri15/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sankri15/leetcode/tree/master/0126-word-ladder-ii) |
 | [0168-excel-sheet-column-title](https://github.com/sankri15/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/sankri15/leetcode/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
