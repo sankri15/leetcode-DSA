@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sankri15/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/sankri15/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/sankri15/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/sankri15/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/sankri15/leetcode/tree/master/0126-word-ladder-ii) |
 | [0168-excel-sheet-column-title](https://github.com/sankri15/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sankri15/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sankri15/leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/sankri15/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sankri15/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
