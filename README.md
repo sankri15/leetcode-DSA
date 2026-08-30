@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sankri15/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sankri15/leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sankri15/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sankri15/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sankri15/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
+| [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sankri15/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sankri15/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sankri15/leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/sankri15/leetcode/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/sankri15/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sankri15/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sankri15/leetcode/tree/master/1140-stone-game-ii) |
