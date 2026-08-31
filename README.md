@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sankri15/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sankri15/leetcode/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sankri15/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sankri15/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sankri15/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sankri15/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sankri15/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sankri15/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sankri15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sankri15/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
