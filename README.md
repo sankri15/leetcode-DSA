@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sankri15/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sankri15/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sankri15/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sankri15/leetcode/tree/master/0135-candy) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sankri15/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/sankri15/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/sankri15/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/sankri15/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sankri15/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sankri15/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sankri15/leetcode/tree/master/0071-simplify-path) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sankri15/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sankri15/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sankri15/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sankri15/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sankri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sankri15/leetcode/tree/master/0072-edit-distance) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sankri15/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sankri15/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sankri15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/sankri15/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sankri15/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sankri15/leetcode/tree/master/0206-reverse-linked-list) |
