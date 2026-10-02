@@ -1,16 +1,26 @@
 class Solution {
-public:
-    vector<string> generateParenthesis(int n) {
-        vector<string> res;
-        addingpar(res, "", n, 0);
-        return res;
-    }
-    void addingpar(vector<string> &v, string str, int n, int m){
-        if(n==0 && m==0) {
-            v.push_back(str);
+private:
+    vector<string> sol;
+    void backtrack(string &temp, int open, int close) {
+        if(open == 0 && close == 0){
+            sol.push_back(temp);
             return;
         }
-        if(m > 0){ addingpar(v, str+")", n, m-1); }
-        if(n > 0){ addingpar(v, str+"(", n-1, m+1); }
+        if(open > 0){
+            temp.push_back('(');
+            backtrack(temp, open - 1, close);
+            temp.pop_back();
+        }
+        if(close > open){
+            temp.push_back(')');
+            backtrack(temp, open, close - 1);
+            temp.pop_back();
+        }
+    }
+public:
+    vector<string> generateParenthesis(int n) {
+        string str = "";
+        backtrack(str, n, n);
+        return sol;
     }
 };
