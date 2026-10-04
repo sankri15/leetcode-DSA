@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sankri15/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sankri15/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sankri15/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/sankri15/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sankri15/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sankri15/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sankri15/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sankri15/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/sankri15/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sankri15/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sankri15/leetcode/tree/master/1140-stone-game-ii) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sankri15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sankri15/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sankri15/leetcode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sankri15/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sankri15/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sankri15/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sankri15/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sankri15/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sankri15/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sankri15/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sankri15/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
