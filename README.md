@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sankri15/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sankri15/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sankri15/leetcode/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/sankri15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sankri15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sankri15/leetcode/tree/master/0856-score-of-parentheses) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/sankri15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sankri15/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sankri15/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/sankri15/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/sankri15/leetcode/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sankri15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sankri15/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sankri15/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
