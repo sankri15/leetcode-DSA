@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sankri15/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/sankri15/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0233-number-of-digit-one](https://github.com/sankri15/leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/sankri15/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sankri15/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sankri15/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sankri15/leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/sankri15/leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/sankri15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sankri15/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sankri15/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/sankri15/leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/sankri15/leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/sankri15/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sankri15/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sankri15/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
@@ -822,4 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sankri15/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sankri15/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sankri15/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
