@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sankri15/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/sankri15/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sankri15/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0368-largest-divisible-subset](https://github.com/sankri15/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/sankri15/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sankri15/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sankri15/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1140-stone-game-ii](https://github.com/sankri15/leetcode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sankri15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sankri15/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sankri15/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sankri15/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sankri15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sankri15/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sankri15/leetcode/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sankri15/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
